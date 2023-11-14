@@ -24,9 +24,12 @@ The transfer function overrides the ERC-20 standard transfer function,
  that the transfer does not result in an overflow.
 
 ### Deployment and Interaction
+The contract was deployed on Remix, and the interaction was done there to show require, assert and revert statements
 
-Authors
+### Authors
 Esther Breath @metacraftersio
 
-License
+### License
 This project is licensed under the MIT License
+
+
